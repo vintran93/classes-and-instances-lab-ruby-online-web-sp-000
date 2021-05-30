@@ -1,3 +1,3 @@
 class Dog
- name = Amy
+ Amy = Dog.new
 end
